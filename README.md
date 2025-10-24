@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad_Hunain
+- 👋 Hi, I’m Muhammad Hunain
 - 🧑🏻‍🎓 I am a current student pursuing a Bachelor's degree in Computer Science at the **National University of Emerging Science.**
 - 👀 I am interested in Programming related Subjects and am just starting on this journey.
 - 🌱 Currently, I am learning about Web Development...
